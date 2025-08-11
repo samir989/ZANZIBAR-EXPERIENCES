@@ -77,6 +77,15 @@ app.post('/api/book', async (req, res) => {
 });
 
 const PORT = process.env.PORT || 3000;
+
+// Start server
 app.listen(PORT, () => {
     console.log(`Server running on port ${PORT}`);
+    console.log('Website is now live at http://localhost:' + PORT);
+});
+
+// Error handling
+app.use((err, req, res, next) => {
+    console.error(err.stack);
+    res.status(500).send('Something broke!');
 });
