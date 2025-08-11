@@ -1,0 +1,37 @@
+Service Type,Location,Season,Base Price (USD),Guests (Min-Max),Additional Guest Price,Notes
+Romantic Beach Dinner,Nungwi Beach,High,180,2-4,50,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Kendwa Beach,High,160,2-4,45,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Paje Beach,High,150,2-4,40,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Jambiani Beach,High,140,2-4,35,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Nungwi Beach,Shoulder,160,2-4,45,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Kendwa Beach,Shoulder,140,2-4,40,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Paje Beach,Shoulder,130,2-4,35,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Jambiani Beach,Shoulder,120,2-4,30,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Nungwi Beach,Low,140,2-4,40,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Kendwa Beach,Low,120,2-4,35,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Paje Beach,Low,110,2-4,30,Includes seafood dinner, candles, sunset views
+Romantic Beach Dinner,Jambiani Beach,Low,100,2-4,25,Includes seafood dinner, candles, sunset views
+Island & Sandbank Tour,Nungwi Beach,High,80,1-6,20,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Kendwa Beach,High,75,1-6,18,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Paje Beach,High,70,1-6,15,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Jambiani Beach,High,65,1-6,12,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Nungwi Beach,Shoulder,70,1-6,18,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Kendwa Beach,Shoulder,65,1-6,15,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Paje Beach,Shoulder,60,1-6,12,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Jambiani Beach,Shoulder,55,1-6,10,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Nungwi Beach,Low,65,1-6,15,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Kendwa Beach,Low,60,1-6,12,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Paje Beach,Low,55,1-6,10,Includes private dhow, snorkeling, lunch
+Island & Sandbank Tour,Jambiani Beach,Low,50,1-6,8,Includes private dhow, snorkeling, lunch
+Sunset Photography,Nungwi Beach,High,90,1-2,30,Includes professional photoshoot, sunset views
+Sunset Photography,Kendwa Beach,High,85,1-2,25,Includes professional photoshoot, sunset views
+Sunset Photography,Paje Beach,High,80,1-2,20,Includes professional photoshoot, sunset views
+Sunset Photography,Jambiani Beach,High,75,1-2,15,Includes professional photoshoot, sunset views
+Sunset Photography,Nungwi Beach,Shoulder,80,1-2,25,Includes professional photoshoot, sunset views
+Sunset Photography,Kendwa Beach,Shoulder,75,1-2,20,Includes professional photoshoot, sunset views
+Sunset Photography,Paje Beach,Shoulder,70,1-2,15,Includes professional photoshoot, sunset views
+Sunset Photography,Jambiani Beach,Shoulder,65,1-2,12,Includes professional photoshoot, sunset views
+Sunset Photography,Nungwi Beach,Low,70,1-2,20,Includes professional photoshoot, sunset views
+Sunset Photography,Kendwa Beach,Low,65,1-2,15,Includes professional photoshoot, sunset views
+Sunset Photography,Paje Beach,Low,60,1-2,12,Includes professional photoshoot, sunset views
+Sunset Photography,Jambiani Beach,Low,55,1-2,10,Includes professional photoshoot, sunset views

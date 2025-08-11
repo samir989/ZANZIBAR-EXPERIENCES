@@ -1,0 +1,4 @@
+Booking ID,Date,Time,Service Type,Location,Number of Guests,Season,Payment Method,Deposit Amount,Full Payment Amount,Deposit Status,Full Payment Status,Booking Status,Lead Source,Special Requests,Notes
+ZB2025-001,2025-08-15,18:00,Romantic Beach Dinner,Nungwi Beach,2,High Season,M-Pesa,54,126,Received,Not Received,Confirmed,WhatsApp,,
+ZB2025-002,2025-08-16,10:00,Island & Sandbank Tour,Paje Beach,4,Shoulder,Airtel Money,42,84,Received,Not Received,Confirmed,Hotel,,
+ZB2025-003,2025-08-17,17:00,Sunset Photography,Kendwa Beach,2,Low Season,PayPal,35,85,Received,Not Received,Confirmed,Instagram,,
